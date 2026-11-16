@@ -17,9 +17,9 @@ Jednoduchý a zabezpečený poznámkový blok s šifrovaným offline úložišt�
 ## 📱 Ukázky aplikace
 
 <p align="center">
-  <img src="screenshots/uvodni-obrazovka.jpg" width="200">
-  <img src="screenshots/seznam-poznamek.jpg" width="200">
-  <img src="screenshots/editace-poznamky.jpg" width="200">
+  <img src="uvodni-obrazovka.jpg" width="200">
+  <img src="seznam-poznamek.jpg" width="200">
+  <img src="editace-poznamky.jpg" width="200">
 </p>
 ## 📱 Ukázky aplikace
 
