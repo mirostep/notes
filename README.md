@@ -20,4 +20,7 @@ Jednoduchý a zabezpečený poznámkový blok s šifrovaným offline úložišt�
   <img src="uvodni-obrazovka.jpg" width="200">
   <img src="seznam-poznamek.jpg" width="200">
   <img src="editace-poznamky.jpg" width="200">
+
+  ## 💡 QR kód pro stažení aplikace
+  <img src="NOTES_QR_stazeni.png" width="200">
 </p>
