@@ -21,6 +21,13 @@ Jednoduchý a zabezpečený poznámkový blok s šifrovaným offline úložišt�
   <img src="seznam-poznamek.jpg" width="200">
   <img src="editace-poznamky.jpg" width="200">
 
-  ## 💡 QR kód pro stažení aplikace
+## 💡 QR kód pro stažení aplikace
+
+<p align="center">
   <img src="NOTES_QR_stazeni.png" width="200">
+</p>
+
+<p align="center">
+  Naskenujte QR kód fotoaparátem mobilního telefonu
+  a stáhněte instalační soubor NOTES.
 </p>
