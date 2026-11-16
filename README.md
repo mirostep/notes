@@ -13,6 +13,14 @@ Jednoduchý a zabezpečený poznámkový blok s šifrovaným offline úložišt�
 * **Offline režim:** Poznámky se ukládají zašifrované přímo v mobilu, fungují i bez internetu.
 * **Úprava a smazání:** Otevřená poznámka je jen ke čtení – upravíte ji **dvojitým poklepáním na text** nebo tlačítkem **Upravit** vpravo nahoře.
 * **Google Disk:** Pro zálohu a synchronizaci do složky `NOTES` na vašem Disku klepněte na **Přihlásit**.
+
+## 📱 Ukázky aplikace
+
+<p align="center">
+  <img src="screenshots/uvodni-obrazovka.jpg" width="200">
+  <img src="screenshots/seznam-poznamek.jpg" width="200">
+  <img src="screenshots/editace-poznamky.jpg" width="200">
+</p>
 ## 📱 Ukázky aplikace
 
 ### Úvodní obrazovka
@@ -23,3 +31,4 @@ Jednoduchý a zabezpečený poznámkový blok s šifrovaným offline úložišt�
 
 ### Úprava poznámky
 ![Úprava poznámky](Screenshot_2026-11-16-12-17-40-038_com.example.notes.jpg)
+
