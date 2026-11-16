@@ -21,14 +21,3 @@ Jednoduchý a zabezpečený poznámkový blok s šifrovaným offline úložišt�
   <img src="seznam-poznamek.jpg" width="200">
   <img src="editace-poznamky.jpg" width="200">
 </p>
-## 📱 Ukázky aplikace
-
-### Úvodní obrazovka
-![Úvodní obrazovka](Screenshot_2026-11-16-12-16-30-815_com.example.notes.jpg)
-
-### Seznam poznámek
-![Seznam poznámek](Screenshot_2026-11-16-12-17-33-191_com.example.notes.jpg)
-
-### Úprava poznámky
-![Úprava poznámky](Screenshot_2026-11-16-12-17-40-038_com.example.notes.jpg)
-
