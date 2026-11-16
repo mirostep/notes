@@ -19,7 +19,7 @@ Jednoduchý a zabezpečený poznámkový blok s šifrovaným offline úložišt�
 ![Úvodní obrazovka](Screenshot_2026-11-16-12-16-30-815_com.example.notes.jpg)
 
 ### Seznam poznámek
-![Seznam poznámek](screenshots/seznam-poznamek.jpg)
+![Seznam poznámek](Screenshot_2026-11-16-12-17-33-191_com.example.notes.jpg)
 
 ### Úprava poznámky
-![Úprava poznámky](screenshots/editace-poznamky.jpg)
+![Úprava poznámky](Screenshot_2026-11-16-12-17-40-038_com.example.notes.jpg)
