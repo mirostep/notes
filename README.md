@@ -11,6 +11,7 @@ Jednoduchý a zabezpečený poznámkový blok s šifrovaným offline úložišt�
 ## 💡 Jak aplikaci ovládat
 * **Zabezpečení:** Při prvním spuštění si nastavte vlastní číselný PIN (min. 4 číslice). Poté lze odemykat i otiskem prstu.
 * **Offline režim:** Poznámky se ukládají zašifrované přímo v mobilu, fungují i bez internetu.
+* **Připnutí a řazení poznámek:** Poznámky se řadí automaticky podle abecedy. **Dlouhým podržením prstu** na libovolné poznámce v seznamu ji připnete úplně nahoru (📌); dalším podržením ji opět odepnete.
 * **Úprava a smazání:** Otevřená poznámka je jen ke čtení – upravíte ji **dvojitým poklepáním na text** nebo tlačítkem **Upravit** vpravo nahoře.
 * **Google Disk:** Pro zálohu a synchronizaci do složky `NOTES` na vašem Disku klepněte na **Přihlásit**.
 
